@@ -2,7 +2,7 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rr6zvpbueem3366od4w3zyeuai&cover_image=true&theme=default&show_offline=false&background_color=4b1616&interchange=false&bar_color=1f581d&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31rr6zvpbueem3366od4w3zyeuai&redirect=true)
 <h1 align="center">Hi 👋, I'm Anitor Joel</h1>
 <h3 align="center">A passionate Python Developer from Nigeria.</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
+<img align="center" alt="Coding" height=""250 width="100%" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anitor123&label=Profile%20views&color=0e75b6&style=flat" alt="anitor123" /> </p>
 
@@ -32,3 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anitor123&show_icons=true&locale=en" alt="anitor123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anitor123&" alt="anitor123" /></p>
+
